@@ -1,1 +1,2 @@
-# personal-portfolio
+# I'm Fraol Endale 
+# I'm full stack developer 
